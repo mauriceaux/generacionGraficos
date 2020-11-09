@@ -9,12 +9,16 @@ import matplotlib.pyplot as plt
 
 def generarGraficos():
 
-    host = '192.168.0.10'
-    db_name = 'resultados_mh'
-    port = '5432'
-    user = 'mh'
-    pwd = 'mh'
+    #Credenciales
+    config = configparser.ConfigParser()
+    config.read('db_config.ini')
+    host = config['postgres']['host']
+    db_name = config['postgres']['db_name']
+    port = config['postgres']['port']
+    user = config['postgres']['user']
+    pwd = config['postgres']['pass']
 
+    #Conección
     engine = db.create_engine(f'postgresql://{user}:{pwd}@{host}:{port}/{db_name}')
     metadata = db.MetaData()
     connection = engine.connect()

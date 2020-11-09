@@ -1,0 +1,7 @@
+\begin{figure}[H]\begin{center}	\includegraphics[width=0.5\columnwidth]{WOA-SCP-BCL1-CPU-C\gc-WOA-SCP-BCL1-CPU-C-scp41.png}	\caption{WOA-SCP-BCL1-CPU-C}\label{WOA-SCP-BCL1-CPU-C}\end{center}\end{figure}
+\begin{figure}[H]\begin{center}	\includegraphics[width=0.5\columnwidth]{WOA-SCP-BCL1-CPU-C\gc-WOA-SCP-BCL1-CPU-C-scp51.png}	\caption{WOA-SCP-BCL1-CPU-C}\label{WOA-SCP-BCL1-CPU-C}\end{center}\end{figure}
+\begin{figure}[H]\begin{center}	\includegraphics[width=0.5\columnwidth]{WOA-SCP-BCL1-CPU-C\gc-WOA-SCP-BCL1-CPU-C-scp61.png}	\caption{WOA-SCP-BCL1-CPU-C}\label{WOA-SCP-BCL1-CPU-C}\end{center}\end{figure}
+\begin{figure}[H]\begin{center}	\includegraphics[width=0.5\columnwidth]{WOA-SCP-BCL1-CPU-C\gc-WOA-SCP-BCL1-CPU-C-scpa1.png}	\caption{WOA-SCP-BCL1-CPU-C}\label{WOA-SCP-BCL1-CPU-C}\end{center}\end{figure}
+\begin{figure}[H]\begin{center}	\includegraphics[width=0.5\columnwidth]{WOA-SCP-BCL1-CPU-C\gc-WOA-SCP-BCL1-CPU-C-scpb1.png}	\caption{WOA-SCP-BCL1-CPU-C}\label{WOA-SCP-BCL1-CPU-C}\end{center}\end{figure}
+\begin{figure}[H]\begin{center}	\includegraphics[width=0.5\columnwidth]{WOA-SCP-BCL1-CPU-C\gc-WOA-SCP-BCL1-CPU-C-scpc1.png}	\caption{WOA-SCP-BCL1-CPU-C}\label{WOA-SCP-BCL1-CPU-C}\end{center}\end{figure}
+\begin{figure}[H]\begin{center}	\includegraphics[width=0.5\columnwidth]{WOA-SCP-BCL1-CPU-C\gc-WOA-SCP-BCL1-CPU-C-scpd1.png}	\caption{WOA-SCP-BCL1-CPU-C}\label{WOA-SCP-BCL1-CPU-C}\end{center}\end{figure}
